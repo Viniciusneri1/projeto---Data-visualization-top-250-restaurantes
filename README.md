@@ -13,7 +13,7 @@ nos Estados Unidos.
 
 ##  Pergunta de negócios
 
- O cenario se passa em um ano pos pandemia, e investidores planejam
+ O cenario se passa em um ano pandemia, e investidores planejam
 entrar no ramo alimenticio.
 A partir dos dados obtidos, extrair o maximo de informacoes e insights
 para detectar possiveis investimentos e tendencias para os proximos anos
@@ -50,7 +50,7 @@ nesse setor.
 - Relacao vendas com unidades;
 
 ### Top 50 restaurantes do futuro
-- Porcentagem de restaurantes com vendas posisivas e negativas;
+- Porcentagem de restaurantes com vendas positivas e negativas;
 
 - Analise vendas por restaurante;
 
@@ -78,4 +78,6 @@ Com o ano de 2020 passando por uma pandemia, surgiu a nescessidade de uma melhor
 como prevencao e melhoria da saude para prevencao do virus, e devido a isso, pode-se relacionar
 o crescimento de vendas dos restaurantes do futuro, que visam uma comida tecnologica,
 organica e mais saudavel.
+
+link tableau : https://public.tableau.com/profile/vinicius.neri#!/vizhome/top250rest/Story2?publish=yes
 
